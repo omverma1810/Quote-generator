@@ -47,7 +47,6 @@ function App() {
             {backgroundColor: accentColor}}>Generate a new quote</button>
                 </div>
             </div>
-            <a id="name" href="http://www.omverma.ml/" target="_blank">-  Om Verma</a>
         </header>
 
     </div>
